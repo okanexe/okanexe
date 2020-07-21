@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/tmiles2/" rel="nofollow"><img src="https://www.videospicer.com/wp-content/uploads/2019/03/Connect-on-LinkedIn-1.png" width="100px" height="100px" ></a>
+<a href="https://www.linkedin.com/in/tmiles2/" rel="nofollow"><img src="https://www.videospicer.com/wp-content/uploads/2019/03/Connect-on-LinkedIn-1.png" width="500px" height="50px" ></a>
