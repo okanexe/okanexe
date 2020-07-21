@@ -14,13 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
 
-<head>
- <script async defer src="https://buttons.github.io/buttons.js"></script>
-</head>
-<body>
-<!-- Place this tag where you want the button to render. -->
-  <a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
-</body>
-</html>
+<a href="https://www.linkedin.com/in/tmiles2/" rel="nofollow"><img src="https://www.pngfind.com/pngs/m/473-4735022_linkedin-button-png-linkedin-transparent-png.png" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-tmiles2-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/tmiles2/" style="max-width:100%;"></a>
