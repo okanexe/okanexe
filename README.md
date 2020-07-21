@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+ <!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Linkedin @okanexe </a>
