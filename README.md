@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Linkedin @okanexe </a>
+<html>
+
+<head>
+ <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+<body>
+<!-- Place this tag where you want the button to render. -->
+  <a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+</body>
+</html>
