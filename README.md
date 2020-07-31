@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/okan-özşahin-b079a8129" rel="nofollow"><img src="https://www.videospicer.com/wp-content/uploads/2019/03/Connect-on-LinkedIn-1.png" width="150px" height="30px" ></a>
+<a href="https://www.linkedin.com/in/okan%C3%B6z%C5%9Fahin/" rel="nofollow"><img src="https://www.videospicer.com/wp-content/uploads/2019/03/Connect-on-LinkedIn-1.png" width="150px" height="30px" ></a>
