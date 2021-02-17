@@ -31,6 +31,15 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 
+<h3 align="left">Technologies:</h3>
+<p align="left"> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> </a> 
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> 
+
 
 <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&theme=vue-dark) /* most used languages */ -->
