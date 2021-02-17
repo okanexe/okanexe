@@ -19,6 +19,22 @@ Here are some ideas to get you started:
 <a href="https://okanexe.medium.com/">
 <img src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;"></a>
 
+- 🌱 I’m currently learning **GCP, Kubernetes, Java etc.**
+
+- 📝 I regularly write articles on [Medium](https://okanexe.medium.com/) 
+
+- 💬 Ask me about **GCP, SQL, Python**
+
+- 📫 How to reach me **okan.ozhn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/okan%C3%B6z%C5%9Fahin/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="okanexe" height="30" width="30" /></a>
+
+<a href="https://okanexe.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@okanexe" height="30" width="40" /></a>
+</p>
+
+
 <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&theme=vue-dark) /* most used languages */ -->
 
