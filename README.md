@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **okan.ozhn@gmail.com**
 
-<h3 align="left">Connect with me:
+<h3 align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" height="32" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="max-width:100%;"></a>
+ Connect with me:
 </h3>
 <p>
 <a href="https://www.linkedin.com/in/okan%C3%B6z%C5%9Fahin/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
