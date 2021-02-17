@@ -54,7 +54,11 @@ Here are some ideas to get you started:
 <a href="https://docs.python.org/3/">
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" style="max-width:100%;"></a>
 
-
+<a href="https://www.tutorialspoint.com/java/java_documentation.htm">
+ <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" alt="python" width="30" height="30" style="max-width:100%;"></a>
+ 
+ 
+ 
 <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&theme=vue-dark) /* most used languages */ -->
 
