@@ -49,7 +49,10 @@ Here are some ideas to get you started:
 
 <a href="https://kubernetes.io/docs/home/">
  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30" style="max-width:100%;"></a>
-
+ 
+ 
+<a href="https://docs.python.org/3/">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" style="max-width:100%;"></a>
 
 
 <!--
