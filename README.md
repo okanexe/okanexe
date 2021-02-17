@@ -41,9 +41,10 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
  
  <a href="https://cloud.google.com/">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30" data-canonical-></a>
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30" style="max-width:100%;"></a>
 
-
+<a href="https://kubernetes.io/docs/home/">
+ <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30" style="max-width:100%;"></a>
 
 <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&theme=vue-dark) /* most used languages */ -->
