@@ -64,7 +64,8 @@ Here are some ideas to get you started:
  
 <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&theme=vue-dark) /* most used languages */ -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&layout=compact)](https://github.com/okanexe/github-readme-stats)
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanexe&layout=compact)](https://github.com/okanexe/github-readme-stats) -->
 
 
 <!--
