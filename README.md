@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **GCP, Kubernetes, Java etc.**
+- 🌱 I’m currently learning **Python Django, Docker, Rest API, Java.**
 
 - 📝 I regularly write articles on [Medium](https://okanexe.medium.com/) 
 
-- 💬 Ask me about **GCP, SQL, Python**
+- 💬 Ask me about **Rest API, Python Django, Java**
 
 - 📫 How to reach me **okan.ozhn@gmail.com**
 
